@@ -26,6 +26,7 @@ SECRET_KEY = '%_8li-a&^)*0vl+5m2v12js&znb-wx4u#8(_eus4e-0_u-#3yx'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    '127.0.0.1',
     'tasks.std-712.ist.mospolytech.ru'
 ]
 
