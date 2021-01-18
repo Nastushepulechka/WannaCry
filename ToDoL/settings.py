@@ -25,7 +25,9 @@ SECRET_KEY = '%_8li-a&^)*0vl+5m2v12js&znb-wx4u#8(_eus4e-0_u-#3yx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'tasks.std-712.ist.mospolytech.ru'
+]
 
 
 # Application definition
